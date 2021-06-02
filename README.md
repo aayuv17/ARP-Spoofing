@@ -1,3 +1,4 @@
+
 # ARP-Spoofing
 Simulating a man-in-the-middle attack using ARP Spoofing.
 
@@ -7,3 +8,8 @@ Our main objective here is to intercept TCP communications between a client & se
 # Tools Used
 - Python's Scapy module
 - Wireshark
+
+# Usage
+- Run ARP_Spoof.py on your attacker machine
+- Run server.py on your server machine
+- Run client.py on your client machine and start communicating with the server
