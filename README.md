@@ -13,3 +13,7 @@ Our main objective here is to intercept TCP communications between a client & se
 - Run ARP_Spoof.py on your attacker machine
 - Run server.py on your server machine
 - Run client.py on your client machine and start communicating with the server
+
+## Future Work
+- Update documentation
+- Maybe attach link to paper
